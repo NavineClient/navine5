@@ -3,9 +3,9 @@
   "id": "addon-template",
   "version": "${version}",
   "name": "Addon Template",
-  "description": "An addon template for Meteor Client addons.",
+  "description": "An addon for meteor called navine5.",
   "authors": [
-    "seasnail"
+    "NavineClient"
   ],
   "contact": {
     "repo": "https://github.com/MeteorDevelopment/meteor-addon-template"
